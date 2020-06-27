@@ -28,7 +28,7 @@ test cases aplied :
 simple test case 
  - key : pwd12
  - text : Math 310 Proves!
- - output : 
+ - output : 6c	a8	6f	e3	cb	c3	3c	16	25	95	c3	e7	8b	9c	97	bc
  
  corner testcase 
  - confirmed the output with online encrypter :     http://rc4.online-domain-tools.com/
