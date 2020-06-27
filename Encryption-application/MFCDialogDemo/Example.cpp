@@ -5,8 +5,6 @@
 #include <iostream>
 
 
-
-
 class CExample : public CWinApp {
 public:
     BOOL InitInstance();

@@ -1,0 +1,8 @@
+﻿  ARC4.cpp
+  Example.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 348 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  MFCDialogDemo.vcxproj -> E:\edeyaa_trial\MFCDialogDemo\Release\Encryption message.exe

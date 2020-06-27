@@ -98,7 +98,7 @@ std::string ARC4::EncryptedText_to_hexString(unsigned char* encrepted_text, int 
 
     for (int i = 0; i < size; i++)
     {
-        Encrypted_stream << hex << hex(encrepted_text[i]);
+        Encrypted_stream << hex << hex(encrepted_text[i]) << " " ;
     }
 
     return Encrypted_string = Encrypted_stream.str();
