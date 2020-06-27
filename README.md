@@ -9,15 +9,10 @@
  - Using classes (OOP) .
  
  Inputs :
- -ASCII key .
- -ASCII text.
+ - ASCII key .
+ - ASCII text.
  
  
  Output :
- - Using of MFC. 
- - Using classes (OOP) . 
+ - encrypted bytes in hex format. 
 
-  -ASCII key . 
-  -ASCII text. 
-
-  -encrypted bytes in hex format. 
