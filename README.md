@@ -7,8 +7,8 @@
  Programming techniques:  
  - Using of MFC. 
  - Using classes (OOP) . 
- Input  : 
+Inputs :
   -ASCII key . 
   -ASCII text. 
- Output :
+Output :
   -encrypted bytes in hex format. 
